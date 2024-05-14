@@ -1,4 +1,4 @@
-# 💫 HI there! I am Ujawal
+# 💫 Hello there!, I am Ujawal
 - 🔭 I’m currently working at [Tata Consultancy Services](https://www.tcs.com/).<br>- 🌱 I’m currently learning Next.Js & TypeScript.<br>- 💬 Studied Electronics & Communication Engineering at [BMS Institute of Technology & Management](https://bmsit.ac.in/).<br>- 📫 How to reach me: mastujawal@gmail.com
 
 
